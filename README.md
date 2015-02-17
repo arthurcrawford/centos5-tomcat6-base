@@ -11,6 +11,11 @@ Installations are from the downloaded files rather than CentOS distributions.
 Environment
 ------------
 
+CentOS
+
+    # cat /etc/redhat-release 
+    CentOS release 5.11 (Final)
+
 Installation directory: /opt
 
 JAVA_HOME = /opt/jdk1.5.0_22
